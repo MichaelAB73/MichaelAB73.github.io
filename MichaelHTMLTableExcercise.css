@@ -1,0 +1,100 @@
+table.table1 {
+    border: 1px solid black;
+    width: 35%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    text-align:center;
+    font-style: normal;
+}
+
+table.table1 th, td {
+    border: 1px solid black;
+    font-style: normal;
+    font-size: 15px;
+    text-align: left;
+    margin: 50px auto;
+}   
+
+table.table1 th {
+    background-color: yellow;
+}
+
+table.table1 td:last-child{
+    text-align: right;
+}
+
+table.table1 tr:nth-child(2) {
+    background-color: yellow;
+}
+
+table.table1 tr:nth-child(4) {
+    background-color: yellow;
+}
+
+table.table1 tr:nth-child(6) {
+    background-color: yellow;
+}
+
+table.table1 tr:nth-child(8) {
+    background-color: yellow;
+}
+
+h1 {
+    text-align: center;
+}
+
+table.table2 {
+    border: 1px solid black;
+    width: 48%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    text-align:center;
+    font-style: normal;
+}
+
+table.table2 th, td {
+    border: 1px solid black;
+    font-style: normal;
+    font-size: 15px;
+    text-align: left;
+    margin: 50px auto;
+}   
+
+table.table2 th {
+    background-color: yellow;
+}
+
+table.table2 td:last-child{
+    text-align: right;
+}
+
+table.table2 tr:nth-child(2) {
+    background-color: yellow;
+}
+
+table.table2 tr:nth-child(4) {
+    background-color: yellow;
+}
+
+table.table2 tr:nth-child(6) {
+    background-color: yellow;
+}
+
+table.table2 tr:nth-child(8) {
+    background-color: yellow;
+}
+
+td.Department {
+    background-color: white;
+}
+
+td.TYOS {
+    text-align: right;
+    font-weight: bold;
+}
+
+td.Years{
+    text-align: right;
+    font-weight: bold;
+}
+
